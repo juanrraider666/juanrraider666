@@ -1,15 +1,37 @@
-### Hi there 👋
 
-**juanrraider666/juanrraider666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Juan Pablo Diaz
 
-Here are some ideas to get you started:
+Me gusta programar y analizar, lo que aprendo lo aplico de la mejor manera, diferenciando entre lo que esta mal y lo que yo haria. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+## 😄 About me
+
+Pragmático
+
+
+⚡️Soy ingeniero de software, me he enfocado en aplicaciones a grande escala no solo desarrollando sino tambien aplicando buenas practicas de ingeneria. creando y mantenimiento aplicaciones y sistemas informáticos, contribuyendo al avance de la tecnología y satisfaciendo las necesidades de los usuarios y las empresas.
+
+Siempre me han interesado las buenas prácticas de programación, cuestionarme la forma de hacer las cosas, y trabajar en equipo.
+
+
+## 🤔 Acknowledgements
+
+ - [Mi portafolio](https://folll.io/juanpablod%C3%ADazalbarracin)
+
+## 🛠 Skills
+Backend: 
+    Javascript
+    Nodejs 
+    Docker
+    Php
+    Symfony
+    Laravel
+    Java
+    Spring Boot
+
+ Frontend: 
+    Javascript
+    React
+    React native
+    Vuejs   
 
