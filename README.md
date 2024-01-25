@@ -9,7 +9,7 @@ Me gusta programar y analizar, lo que aprendo lo aplico de la mejor manera, dife
 Pragmático
 
 
-⚡️Soy ingeniero de software, me he enfocado en aplicaciones a grande escala no solo desarrollando sino tambien aplicando buenas practicas de ingeneria. creando y mantenimiento aplicaciones y sistemas informáticos, contribuyendo al avance de la tecnología y satisfaciendo las necesidades de los usuarios y las empresas.
+⚡️Soy ingeniero de software, me he enfocado en aplicaciones a grande escala no solo desarrollando sino tambien aplicando buenas practicas de ingenieria. Creando y mantenimiento aplicaciones y sistemas informáticos, contribuyendo al avance de la tecnología y satisfaciendo las necesidades de los usuarios y las empresas.
 
 Siempre me han interesado las buenas prácticas de programación, cuestionarme la forma de hacer las cosas, y trabajar en equipo.
 
