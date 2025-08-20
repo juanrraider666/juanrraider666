@@ -16,7 +16,7 @@ Siempre me han interesado las buenas prácticas de programación, cuestionarme l
 
 ## 🤔 Acknowledgements
 
- - [Mi portafolio](https://folll.io/juanpablod%C3%ADazalbarracin)
+ - [Mi portafolio](https://jpdiaz663.github.io/jpdiaz663)
 
 ## 🛠 Skills
 Backend: 
